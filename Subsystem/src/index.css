@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 
-@media only screen and (max-width: 1200px) and (min-width: 390px) {
+@media only screen and (max-width: 1200px) and (min-width: 360px) {
 
 .App {
     background-position: center;
