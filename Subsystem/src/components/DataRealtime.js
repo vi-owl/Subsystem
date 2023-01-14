@@ -41,7 +41,7 @@ function RealtimeData () {
             } else if (lux<=1000 && lux>405) {
               weatherstate="Jasny pochmurny dzień"
               weathericon=<CoudyDay/>
-            } else if (lux<=25000  && lux>10000) {
+            } else if (lux<=25000  && lux>1000) {
               weatherstate="Słoneczny dzień"
               weathericon=<ClearDay/>
             }
